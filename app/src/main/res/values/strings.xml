@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Super Browser</string>
+    <string name="super_browser">Super Browser</string>
+    <string name="search_here">Search here</string>
+    <string name="todo">TODO</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="youtube">YouTube</string>
+    <string name="twitter">Twitter</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="about_me">About me</string>
+</resources>

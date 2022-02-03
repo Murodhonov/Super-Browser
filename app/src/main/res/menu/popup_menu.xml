@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_bookmark"
+        android:title="Add Bookmark"
+        android:icon="@drawable/ic_baseline_star_24"/>
+    <item
+        android:id="@+id/bookmark_list"
+        android:title="Bookmark list"
+        android:icon="@drawable/bookmark_list"/>
+    <item
+        android:id="@+id/help"
+        android:title="Help Center"
+        android:icon="@drawable/help3"/>
+    <item
+        android:id="@+id/about"
+        android:title="About us"
+        android:icon="@drawable/user"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/setting3"/>
+    <item
+        android:id="@+id/history"
+        android:title="History"
+        android:icon="@drawable/history2"/>
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        android:icon="@drawable/exit2"/>
+
+</menu>
